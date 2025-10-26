@@ -4,7 +4,7 @@
 
 ---
 
-## Introduction
+## [Introduction](#introduction)
 
 Welcome to PlayLog! Your privacy is important to us. This policy explains what information we collect, how we use it, and your rights regarding your data.
 
@@ -12,7 +12,7 @@ PlayLog is designed to keep your gaming backlog private and stored on your devic
 
 ---
 
-## Information We Collect
+## [Information We Collect](#information-we-collect)
 
 ### 1. Information Stored Locally on Your Device
 - **Your game backlog:** Games you add, your progress, and any comments you write
@@ -54,7 +54,7 @@ PlayLog is designed to keep your gaming backlog private and stored on your devic
 
 ---
 
-## Information We Do NOT Collect
+## [Information We Do NOT Collect](#information-we-do-not-collect)
 
 - No user accounts or registration
 - No names, email addresses, or contact information (unless you email us for support)
@@ -64,7 +64,7 @@ PlayLog is designed to keep your gaming backlog private and stored on your devic
 
 ---
 
-## How We Use Your Information
+## [How We Use Your Information](#how-we-use-your-information)
 
 We use the information described above to:
 - Provide you with game information when you search
@@ -75,7 +75,7 @@ We use the information described above to:
 
 ---
 
-## Data Storage and Security
+## [Data Storage and Security](#data-storage-and-security)
 
 - **Your backlog data:** Stored only on your device. If you delete the app, this data is deleted.
 - **Analytics and error data:** Stored by PostHog and Sentry on secure servers in accordance with their privacy policies
@@ -85,7 +85,7 @@ We take reasonable measures to protect your information, but no method of transm
 
 ---
 
-## Third-Party Services
+## [Third-Party Services](#third-party-services)
 
 PlayLog uses the following third-party services that may collect information:
 
@@ -102,7 +102,7 @@ These services operate independently and have their own privacy policies. We rec
 
 ---
 
-## Your Privacy Choices
+## [Your Privacy Choices](#your-privacy-choices)
 
 **Analytics Opt-In/Opt-Out**
 - Analytics are **disabled by default** when you first install PlayLog
@@ -117,7 +117,7 @@ These services operate independently and have their own privacy policies. We rec
 
 ---
 
-## Your Rights (GDPR)
+## [Your Rights (GDPR)](#your-rights-gdpr)
 
 You have the right to:
 
@@ -132,7 +132,7 @@ Since most of your data is stored locally on your device and our collected data 
 
 ---
 
-## Children's Privacy
+## [Children's Privacy](#childrens-privacy)
 
 PlayLog is not intended for children under 13. We do not knowingly collect information from children under 13. If you believe a child has provided us with information, please contact us and we will delete it.
 
@@ -140,7 +140,7 @@ Note: While PlayLog itself is not for children, games displayed may have various
 
 ---
 
-## Changes to This Privacy Policy
+## [Changes to This Privacy Policy](#changes-to-this-privacy-policy)
 
 We may update this privacy policy from time to time. We'll notify you of any changes by posting the new policy with an updated "Effective Date" at the top.
 
@@ -148,7 +148,7 @@ We encourage you to review this policy periodically.
 
 ---
 
-## Data Retention
+## [Data Retention](#data-retention)
 
 - **Local backlog data:** Kept on your device until you delete the app
 - **Anonymous analytics:** Retained according to PostHog's data retention policies
@@ -157,15 +157,15 @@ We encourage you to review this policy periodically.
 
 ---
 
-## Contact Us
+## [Contact Us](#contact-us)
 
 If you have any questions about this privacy policy or how we handle your information, please contact us at:
 
-**Email:** playlogapp@outlook.com
+**Email:** [playlogapp@outlook.com](mailto:playlogapp@outlook.com)
 
 ---
 
-## Legal Basis for Processing (GDPR)
+## [Legal Basis for Processing (GDPR)](#legal-basis-for-processing-gdpr)
 
 We process your data based on the following legal grounds:
 
