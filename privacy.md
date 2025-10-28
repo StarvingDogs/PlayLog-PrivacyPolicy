@@ -61,13 +61,13 @@ PlayLog is designed to be private by default. Your game backlog stays on your de
 We use a few services to make PlayLog work:
 
 - **PostHog** - Anonymous analytics (only if you opt in)  
-  Their privacy policy: https://posthog.com/privacy
+  [Their privacy policy:](https://posthog.com/privacy)
   
 - **Sentry** - Crash reporting  
-  Their privacy policy: https://sentry.io/privacy/
+  [Their privacy policy:](https://sentry.io/privacy/)
 
 - **Railway** - Hosts our API  
-  Their privacy policy: https://railway.app/legal/privacy
+  [Their privacy policy:](https://railway.app/legal/privacy)
 
 These companies have their own privacy policies if you want to check them out.
 
