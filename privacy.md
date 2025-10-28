@@ -1,10 +1,4 @@
-# Privacy Policy for PlayLog
-
-**Effective Date:** 1 November 2025
-
----
-
-## The Simple Version
+# The Simple Version
 
 PlayLog is designed to be private by default. Your game backlog stays on your device, and we collect very little data. This policy explains what we do (and don't) collect.
 

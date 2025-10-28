@@ -1,10 +1,4 @@
-# Terms of Service for PlayLog
-
-**Effective Date:** 1 November 2025
-
----
-
-## What PlayLog Is
+# What PlayLog Is
 
 PlayLog is a simple app to help you track your gaming backlog. You can search for games, add them to your list, and keep notes about your progress. That's it!
 

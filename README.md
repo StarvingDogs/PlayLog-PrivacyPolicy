@@ -1,8 +1,4 @@
-# PlayLog - Legal Information
-
-Welcome to PlayLog's legal documentation.
-
-## Documents
+# Documents
 
 - **[Privacy Policy](privacy.md)** - How we handle your data
 - **[Terms of Service](terms.md)** - Terms for using PlayLog
