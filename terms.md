@@ -1,12 +1,12 @@
-# What PlayLog Is
+# What Playlog Is
 
-PlayLog is a simple app to help you track your gaming backlog. You can search for games, add them to your list, and keep notes about your progress. That's it!
+Playlog is a simple app to help you track your gaming backlog. You can search for games, add them to your list, and keep notes about your progress. That's it!
 
 ---
 
 ## Important: We're Not Affiliated With Anyone
 
-**PlayLog is completely independent.** We're not affiliated with, endorsed by, or connected to any game companies, publishers, developers, or franchises. This includes:
+**Playlog is completely independent.** We're not affiliated with, endorsed by, or connected to any game companies, publishers, developers, or franchises. This includes:
 - Disney, Pixar, Marvel, Lucasfilm, or any related companies
 - Nintendo, Sony, Microsoft, or any console makers
 - Any game publishers like EA, Ubisoft, Activision, etc.
@@ -25,7 +25,7 @@ All game titles, logos, images, and trademarks belong to their respective owners
 
 ## Using the App
 
-Please use PlayLog responsibly:
+Please use Playlog responsibly:
 - Don't try to break or hack the app
 - Use it for personal tracking only
 - Follow applicable laws
@@ -40,7 +40,7 @@ We pull game information from third-party sources. While we try to keep it accur
 
 ## No Guarantees
 
-PlayLog is provided as-is. We do our best to keep it working smoothly, but:
+Playlog is provided as-is. We do our best to keep it working smoothly, but:
 - The app might have bugs or go down sometimes
 - We might need to make changes or updates
 - We're not responsible if something goes wrong

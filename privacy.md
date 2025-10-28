@@ -1,6 +1,6 @@
 # The Simple Version
 
-PlayLog is designed to be private by default. Your game backlog stays on your device, and we collect very little data. This policy explains what we do (and don't) collect.
+Playlog is designed to be private by default. Your game backlog stays on your device, and we collect very little data. This policy explains what we do (and don't) collect.
 
 ---
 
@@ -22,7 +22,7 @@ PlayLog is designed to be private by default. Your game backlog stays on your de
 - We can't tell who viewed what
 
 ### Analytics (Optional - Off by Default)
-- **Analytics are turned off when you install PlayLog**
+- **Analytics are turned off when you install Playlog**
 - You can opt in through Settings if you want to help improve the app
 - If you opt in, we see anonymous stuff like:
   - Which screens you visit
@@ -58,7 +58,7 @@ PlayLog is designed to be private by default. Your game backlog stays on your de
 
 ## Third-Party Services
 
-We use a few services to make PlayLog work:
+We use a few services to make Playlog work:
 
 - **PostHog** - Anonymous analytics (only if you opt in)  
   [Their privacy policy:](https://posthog.com/privacy)
@@ -77,7 +77,7 @@ These companies have their own privacy policies if you want to check them out.
 
 **Analytics**
 - Off by default when you install the app
-- Turn it on in Settings if you want to help improve PlayLog
+- Turn it on in Settings if you want to help improve Playlog
 - Turn it back off anytime you want
 
 **Your Backlog**
@@ -103,7 +103,7 @@ Here's the practical version:
 
 ## Kids
 
-PlayLog isn't intended for children under 13, and we don't knowingly collect their information. If you think a child has shared info with us, let us know and we'll delete it.
+Playlog isn't intended for children under 13, and we don't knowingly collect their information. If you think a child has shared info with us, let us know and we'll delete it.
 
 Note: Games in the app have various age ratings - parents should supervise their kids.
 
