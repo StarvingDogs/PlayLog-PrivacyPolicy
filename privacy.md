@@ -1,16 +1,16 @@
-# The Simple Version
+# [The Simple Version](#the-simple-version)
 
 Playlog is designed to be private by default. Your game backlog stays on your device, and we collect very little data. This policy explains what we do (and don't) collect.
 
 ---
 
-## What Stays on Your Device
+## [What Stays on Your Device](#what-stays-on-your-device)
 
 **Your game backlog, progress, and notes** - All of this is stored only on your device. We never see it, can't access it, and don't store it anywhere. If you delete the app, it's gone.
 
 ---
 
-## What We Collect
+## [What We Collect](#what-we-collect)
 
 ### When You Search for Games
 - We process your search to find matching games
@@ -46,7 +46,7 @@ Playlog is designed to be private by default. Your game backlog stays on your de
 
 ---
 
-## What We DON'T Collect
+## [What We DON'T Collect](#what-we-dont-collect)
 
 - No accounts or sign-ups
 - No names, emails, or contact info (unless you email us)
@@ -56,7 +56,7 @@ Playlog is designed to be private by default. Your game backlog stays on your de
 
 ---
 
-## Third-Party Services
+## [Third-Party Services](#third-party-services)
 
 We use a few services to make Playlog work:
 
@@ -73,7 +73,7 @@ These companies have their own privacy policies if you want to check them out.
 
 ---
 
-## Your Control
+## [Your Control](#your-control)
 
 **Analytics**
 - Off by default when you install the app
@@ -87,7 +87,7 @@ These companies have their own privacy policies if you want to check them out.
 
 ---
 
-## GDPR (European Privacy Rights)
+## [GDPR (European Privacy Rights)](#gdpr-european-privacy-rights)
 
 You have the right to:
 - Ask what data we have (spoiler: very little)
@@ -101,7 +101,7 @@ Here's the practical version:
 
 ---
 
-## Kids
+## [Kids](#kids)
 
 Playlog isn't intended for children under 13, and we don't knowingly collect their information. If you think a child has shared info with us, let us know and we'll delete it.
 
@@ -109,13 +109,13 @@ Note: Games in the app have various age ratings - parents should supervise their
 
 ---
 
-## Changes
+## [Changes](#changes)
 
 We might update this policy occasionally. If we do, we'll update the date at the top. We'll try to keep you informed of any big changes.
 
 ---
 
-## Where Your Data Lives
+## [Where Your Data Lives](#where-your-data-lives)
 
 - **Your backlog:** On your device only
 - **Analytics:** Stored by PostHog (if you opted in)
@@ -126,7 +126,7 @@ We take reasonable security measures, but nothing online is 100% secure.
 
 ---
 
-## Questions?
+## [Questions?](#questions)
 
 If you have questions about privacy or how we handle data, just email us at [playlogapp@outlook.com](mailto:playlogapp@outlook.com).
 

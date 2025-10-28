@@ -1,10 +1,10 @@
-# What Playlog Is
+# [What Playlog Is](#what-playlog-is)
 
 Playlog is a simple app to help you track your gaming backlog. You can search for games, add them to your list, and keep notes about your progress. That's it!
 
 ---
 
-## Important: We're Not Affiliated With Anyone
+## [Important: We're Not Affiliated With Anyone](#important-were-not-affiliated-with-anyone)
 
 **Playlog is completely independent.** We're not affiliated with, endorsed by, or connected to any game companies, publishers, developers, or franchises. This includes:
 - Disney, Pixar, Marvel, Lucasfilm, or any related companies
@@ -16,14 +16,14 @@ All game titles, logos, images, and trademarks belong to their respective owners
 
 ---
 
-## Your Data
+## [Your Data](#your-data)
 
 - **Your backlog stays on your device.** We don't have access to your game lists or notes.
 - Check out our [Privacy Policy](privacy.md) for more details on how we handle data.
 
 ---
 
-## Using the App
+## [Using the App](#using-the-app)
 
 Please use Playlog responsibly:
 - Don't try to break or hack the app
@@ -32,13 +32,13 @@ Please use Playlog responsibly:
 
 ---
 
-## Game Information
+## [Game Information](#game-information)
 
 We pull game information from third-party sources. While we try to keep it accurate, we can't guarantee everything is 100% correct or up-to-date. If you spot something wrong, let us know!
 
 ---
 
-## No Guarantees
+## [No Guarantees](#no-guarantees)
 
 Playlog is provided as-is. We do our best to keep it working smoothly, but:
 - The app might have bugs or go down sometimes
@@ -47,19 +47,19 @@ Playlog is provided as-is. We do our best to keep it working smoothly, but:
 
 ---
 
-## Copyright and Content
+## [Copyright and Content](#copyright-and-content)
 
 If you own rights to any content and believe we're using it inappropriately, please email us at [playlogapp@outlook.com](mailto:playlogapp@outlook.com). We'll look into it and remove anything if needed. We respect intellectual property rights and will respond to legitimate concerns promptly.
 
 ---
 
-## Changes
+## [Changes](#changes)
 
 We might update these terms occasionally. If we do, we'll update the date at the top. Continuing to use the app means you're okay with any changes.
 
 ---
 
-## Questions?
+## [Questions?](#questions)
 
 If you have any questions, just email us at [playlogapp@outlook.com](mailto:playlogapp@outlook.com).
 

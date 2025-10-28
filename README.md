@@ -1,11 +1,11 @@
-# Documents
+# [Documents](#documents)
 
 - **[Privacy Policy](privacy.md)** - How we handle your data
 - **[Terms of Service](terms.md)** - Terms for using Playlog
 
 ---
 
-## About Playlog
+## [About Playlog](#about-playlog)
 
 Playlog is an independent game tracking application that helps you manage your gaming backlog.
 
