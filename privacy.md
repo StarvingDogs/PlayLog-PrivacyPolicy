@@ -132,4 +132,4 @@ If you have questions about privacy or how we handle data, just email us at [pla
 
 ---
 
-**Last Updated:** 1 November 2025
+**Last Updated:** 29 October 2025
